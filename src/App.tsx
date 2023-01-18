@@ -1,7 +1,11 @@
+import ContenstTesxt from "./Layouts/Contents"
+
 const App = () => {
   return (
     <>
-      <div>初始化</div>
+      <ContenstTesxt>
+        <div>初始化</div>
+      </ContenstTesxt>
     </>
   )
 }
